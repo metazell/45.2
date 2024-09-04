@@ -1,0 +1,13 @@
+.custom-navbar {
+  background-color: #123456; /* Custom background color */
+  padding: 15px;
+}
+
+.custom-card {
+  border: 2px solid #f00; /* Red border for cards */
+}
+
+.btn-custom {
+  background-color: #ff5722;
+  color: white;
+}

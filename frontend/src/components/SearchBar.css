@@ -1,0 +1,16 @@
+  .search-bar {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .form-control {
+    font-size: 1.2rem;
+    padding: 15px;
+    border: 1px solid #e2e6e8;
+  }
+  
+  .btn-primary {
+    font-size: 1.2rem;
+    padding: 10px 20px;
+  }
+  

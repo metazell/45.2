@@ -1,0 +1,38 @@
+.job-card {
+    padding: 1.5rem;
+  }
+  
+  .card {
+    border: 1px solid #e2e6e8;
+    border-radius: 0.5rem;
+  }
+  
+  .job-title {
+    font-weight: bold;
+    color: #003BFF;
+  }
+  
+  .company-name, .location {
+    font-size: 0.9rem;
+  }
+  
+  .salary {
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  
+  .job-description {
+    font-size: 0.95rem;
+    color: #555;
+  }
+  
+  .btn-primary {
+    background-color: #003BFF;
+    border-color: #003BFF;
+  }
+  
+  .btn-primary:hover {
+    background-color: #002cb0;
+    border-color: #002cb0;
+  }
+  
